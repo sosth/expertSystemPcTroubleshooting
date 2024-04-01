@@ -31,6 +31,9 @@
 4. Follow the prompts to complete the diagnostic.
 5. View the diagnostic results to identify the solution for the problem.
 
+# Note
+ . Ensure that any files named .form and .xml in the src\com\safa\systeme_expert directory are ignored during development.
+
 # Contact
 For questions or feedback, please contact me via my email :  <b>safabechchaasara@gmail.com</b>.
 
